@@ -1,0 +1,1 @@
+Use this controller to have a Camera3D follow an ObjectContainer3D, such as the AWPKinematicCharacterController's skin object.
